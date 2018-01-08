@@ -1,1 +1,1 @@
-I upload solutions that I think are interesting, problems that I'm working on, or the ones that, well, I'm currently stuck on. Mostly in C++ just because it's my favorite language to write in.
+I upload solutions that I think are interesting and that I had a fun time thinking about and solving :).
